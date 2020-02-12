@@ -261,7 +261,7 @@
         android:layout_height="wrap_content"
         android:layout_marginRight="48dp"
         android:layout_marginTop="16dp"
-        android:text="296 Elgin St, Ottawa, ON x 1M3, "
+        android:text="296 Elgin St, Ottawa, ON x 1M3,"
         android:fontFamily="@font/futura_pt_demibold"
         android:textSize="15sp"
         app:layout_constraintRight_toRightOf="parent"
