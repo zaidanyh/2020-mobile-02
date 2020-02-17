@@ -81,7 +81,7 @@
         android:id="@+id/textView5"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Jonathan Doe"
+        android:text="Muhamad Zaidan Yahya"
         android:layout_marginTop="18dp"
         android:layout_marginLeft="48dp"
         android:textSize="16dp"
