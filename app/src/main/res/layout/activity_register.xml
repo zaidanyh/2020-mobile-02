@@ -6,8 +6,8 @@
     android:layout_height="match_parent"
     tools:context=".RegisterActivity">
 
-    <ImageView
-        android:id="@+id/imageView2"
+    <ImageButton
+        android:id="@+id/imageButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="48dp"
@@ -15,7 +15,7 @@
         android:layout_marginTop="24dp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/arrow_left_black" />
+        android:background="@drawable/arrow_left_black"/>
 
     <TextView
         android:id="@+id/textView"
@@ -28,7 +28,7 @@
         android:textColor="#000000"
         android:textSize="20sp"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@id/imageView2" />
+        app:layout_constraintTop_toBottomOf="@id/imageButton" />
 
     <TextView
         android:id="@+id/textView2"
