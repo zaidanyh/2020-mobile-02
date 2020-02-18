@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">MarketplaceLayout</string>
+    <string-array name="kota">
+        <item>Bandung</item>
+        <item>Jakarta</item>
+        <item>Semarang</item>
+        <item>Yogyakarta</item>
+        <item>Surabaya</item>
+        <item>Malang</item>
+    </string-array>
 </resources>
